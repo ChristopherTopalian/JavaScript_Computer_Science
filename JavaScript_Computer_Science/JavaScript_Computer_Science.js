@@ -9,8 +9,8 @@ All Rights Reserved
 Copyright 2000-2024
 
 
-    Dedicated
-           to
+ Dedicated
+     to
 God the Father
 
 /* 000c_where_to_place_code.js */
